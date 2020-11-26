@@ -127,7 +127,7 @@ li {
   font-family: "Open sans", sans-serif;
   font-size: 64px;
   line-height: 1;
-  letter-spacing: .2em;
+  /* letter-spacing: .2em; */
 }
 
 .logo-subtitle {
